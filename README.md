@@ -11,7 +11,7 @@
 <br/>
 
 ## 懶
-
+<img src="img/Koishi.jpg" width="220" align="right" alt="Koishi">
 Hi 這裡是 Ristu，新手沒有很多經驗，只有在閒時會學習編程。  
 目前還在學習中，不想做太多事 QAQ
 
